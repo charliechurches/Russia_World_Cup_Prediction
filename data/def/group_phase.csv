@@ -1,0 +1,49 @@
+date,loc,home_team,away_team,group,home_team_id,away_team_id,recent,result,home_wins,away_wins,home_team_fitness,away_team_fitness,home_team_level,away_team_level,championship_importance,neutral,home_team_fifa_ranking,away_team_fifa_ranking
+43265.75,"Luzhniki Stadium, Moscow",Russia,Saudi Arabia,Group A,177,183,0.7,,,,79,59,7,5,5,0,493,462
+43266.625,Ekaterinburg Stadium,Egypt,Uruguay,Group A,63,228,0.7,,,,62,72,6,7,5,1,636,976
+43266.75,Saint Petersburg Stadium,Morocco,Iran,Group B,146,99,0.7,,,,63,67,4,3,5,1,681,0
+43266.875,"Fisht Stadium, Sochi",Portugal,Spain,Group B,172,197,0.7,,,,114,99,9,10,5,1,1306,1162
+43267.54167,Kazan Arena,France,Australia,Group C,73,12,0.7,,,,83,67,10,5,5,1,1166,700
+43267.66667,"Otkrytiye Arena, Moscow",Argentina,Iceland,Group D,9,96,0.7,,,,83,80,9,4,5,1,1254,930
+43267.79167,Saransk Stadium,Peru,Denmark,Group C,169,57,0.7,,,,80,70,4,7,5,1,1106,1054
+43267.91667,Kaliningrad Stadium,Croatia,Nigeria,Group D,51,155,0.7,,,,83,47,6,5,5,1,975,635
+43268.625,Samara Stadium,Costa Rica,Serbia,Group E,50,186,0.7,,,,86,70,3,5,5,1,858,732
+43268.75,"Luzhniki Stadium, Moscow",Germany,Mexico,Group F,79,139,0.7,,,,138,145,10,7,5,1,1544,1008
+43268.875,Rostov-on-Don Stadium,Brazil,Switzerland,Group E,29,209,0.7,,,,114,51,10,7,5,1,1384,1179
+43269.625,Nizhny Novgorod Stadium,Sweden,Korea Republic,Group F,208,113,0.7,,,,85,68,7,6,5,1,889,520
+43269.75,"Fisht Stadium, Sochi",Belgium,Panama,Group G,20,166,0.7,,,,79,74,6,2,5,1,1346,574
+43269.875,Volgograd Stadium,Tunisia,England,Group G,220,65,0.7,,,,36,91,4,9,5,1,1012,1040
+43270.625,Saransk Stadium,Colombia,Japan,Group H,45,106,0.7,,,,98,63,7,6,5,1,989,528
+43270.75,"Otkrytiye Arena, Moscow",Poland,Senegal,Group H,171,185,0.7,,,,50,77,6,3,5,1,1128,825
+43270.875,Saint Petersburg Stadium,Russia,Egypt,Group A,177,63,0.7,,,,79,62,7,6,5,0,493,636
+43271.625,"Luzhniki Stadium, Moscow",Portugal,Morocco,Group B,172,146,0.7,,,,114,62,9,4,5,1,1306,681
+43271.75,Rostov-on-Don Stadium,Uruguay,Saudi Arabia,Group A,228,183,0.7,,,,68,59,7,5,5,1,976,462
+43271.875,Kazan Arena,Iran,Spain,Group B,99,197,0.7,,,,65,99,3,10,5,1,0,1162
+43272.625,Samara Stadium,Denmark,Australia,Group C,57,12,0.7,,,,74,67,7,5,5,1,1054,700
+43272.75,Ekaterinburg Stadium,France,Peru,Group C,73,169,0.7,,,,83,86,10,4,5,1,1166,1106
+43272.875,Nizhny Novgorod Stadium,Argentina,Croatia,Group D,9,51,0.7,,,,83,80,9,6,5,1,1254,975
+43273.625,Saint Petersburg Stadium,Brazil,Costa Rica,Group E,29,50,0.7,,,,114,73,10,3,5,1,1384,858
+43273.75,Volgograd Stadium,Nigeria,Iceland,Group D,155,96,0.7,,,,38,80,5,4,5,1,635,930
+43273.875,Kaliningrad Stadium,Serbia,Switzerland,Group E,186,209,0.7,,,,62,51,5,7,5,1,732,1179
+43274.625,"Otkrytiye Arena, Moscow",Belgium,Tunisia,Group G,20,220,0.7,,,,79,40,6,4,5,1,1346,1012
+43274.75,Rostov-on-Don Stadium,Korea Republic,Mexico,Group F,113,139,0.7,,,,55,145,6,7,5,1,520,1008
+43274.875,"Fisht Stadium, Sochi",Germany,Sweden,Group F,79,208,0.7,,,,138,85,10,7,5,1,1544,889
+43275.625,Nizhny Novgorod Stadium,England,Panama,Group G,65,166,0.7,,,,90,74,9,2,5,1,1040,574
+43275.75,Ekaterinburg Stadium,Japan,Senegal,Group H,106,185,0.7,,,,68,77,6,3,5,1,528,825
+43275.875,Kazan Arena,Poland,Colombia,Group H,171,45,0.7,,,,50,91,6,7,5,1,1128,989
+43276.70833,Samara Stadium,Uruguay,Russia,Group A,228,177,0.7,,,,68,63,7,7,5,1,976,493
+43276.70833,Volgograd Stadium,Saudi Arabia,Egypt,Group A,183,63,0.7,,,,68,62,5,6,5,1,462,636
+43276.875,Saransk Stadium,Iran,Portugal,Group B,99,172,0.7,,,,65,94,3,9,5,1,0,1306
+43276.875,Kaliningrad Stadium,Spain,Morocco,Group B,197,146,0.7,,,,97,62,10,4,5,1,1162,681
+43277.70833,"Luzhniki Stadium, Moscow",Denmark,France,Group C,57,73,0.7,,,,74,91,7,10,5,1,1054,1166
+43277.70833,"Fisht Stadium, Sochi",Australia,Peru,Group C,12,169,0.7,,,,75,86,5,4,5,1,700,1106
+43277.875,Saint Petersburg Stadium,Nigeria,Argentina,Group D,155,9,0.7,,,,38,84,5,9,5,1,635,1254
+43277.875,Rostov-on-Don Stadium,Iceland,Croatia,Group D,96,51,0.7,,,,84,80,4,6,5,1,930,975
+43278.70833,Ekaterinburg Stadium,Mexico,Sweden,Group F,139,208,0.7,,,,147,85,7,7,5,1,1008,889
+43278.70833,Kazan Arena,Korea Republic,Germany,Group F,113,79,0.7,,,,55,137,6,10,5,1,520,1544
+43278.875,"Otkrytiye Arena, Moscow",Serbia,Brazil,Group E,186,29,0.7,,,,62,114,5,10,5,1,732,1384
+43278.875,Nizhny Novgorod Stadium,Switzerland,Costa Rica,Group E,209,50,0.7,,,,52,73,7,3,5,1,1179,858
+43279.70833,Volgograd Stadium,Japan,Poland,Group H,106,171,0.7,,,,68,69,6,6,5,1,528,1128
+43279.70833,Samara Stadium,Senegal,Colombia,Group H,185,45,0.7,,,,73,91,3,7,5,1,825,989
+43279.875,Saransk Stadium,Panama,Tunisia,Group G,166,220,0.7,,,,69,40,2,4,5,1,574,1012
+43279.875,Kaliningrad Stadium,England,Belgium,Group G,65,20,0.7,,,,90,87,9,6,5,1,1040,1346

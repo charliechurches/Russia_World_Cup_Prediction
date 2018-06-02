@@ -1,0 +1,5 @@
+,group,home_team,away_team,home_team_id,away_team_id,recent,home_team_fitness,away_team_fitness,home_team_level,away_team_level,championship_importance,home_team_fifa_ranking,away_team_fifa_ranking,neutral,result
+0,4ths,Spain,France,197,73,0.9,97,91,10,10,5,1162,1166,1,1.0
+1,4ths,Portugal,Argentina,172,9,0.9,114,84,9,9,5,1306,1254,1,1.0
+2,4ths,Brazil,Belgium,29,20,0.9,114,87,10,6,5,1384,1346,1,1.0
+3,4ths,Germany,Colombia,79,45,0.9,138,91,10,7,5,1544,989,1,1.0

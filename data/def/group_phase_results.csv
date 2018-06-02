@@ -1,0 +1,49 @@
+,group,home_team,away_team,home_team_id,away_team_id,recent,home_team_fitness,away_team_fitness,home_team_level,away_team_level,championship_importance,home_team_fifa_ranking,away_team_fifa_ranking,neutral,result
+0,Group A,Russia,Saudi Arabia,177,183,0.7,79,59,7,5,5,493,462,0,1.0
+1,Group A,Egypt,Uruguay,63,228,0.7,62,72,6,7,5,636,976,1,0.5
+2,Group B,Morocco,Iran,146,99,0.7,63,67,4,3,5,681,0,1,1.0
+3,Group B,Portugal,Spain,172,197,0.7,114,99,9,10,5,1306,1162,1,0.5
+4,Group C,France,Australia,73,12,0.7,83,67,10,5,5,1166,700,1,1.0
+5,Group D,Argentina,Iceland,9,96,0.7,83,80,9,4,5,1254,930,1,1.0
+6,Group C,Peru,Denmark,169,57,0.7,80,70,4,7,5,1106,1054,1,0.5
+7,Group D,Croatia,Nigeria,51,155,0.7,83,47,6,5,5,975,635,1,1.0
+8,Group E,Costa Rica,Serbia,50,186,0.7,86,70,3,5,5,858,732,1,0.5
+9,Group F,Germany,Mexico,79,139,0.7,138,145,10,7,5,1544,1008,1,1.0
+10,Group E,Brazil,Switzerland,29,209,0.7,114,51,10,7,5,1384,1179,1,1.0
+11,Group F,Sweden,Korea Republic,208,113,0.7,85,68,7,6,5,889,520,1,1.0
+12,Group G,Belgium,Panama,20,166,0.7,79,74,6,2,5,1346,574,1,1.0
+13,Group G,Tunisia,England,220,65,0.7,36,91,4,9,5,1012,1040,1,0.5
+14,Group H,Colombia,Japan,45,106,0.7,98,63,7,6,5,989,528,1,1.0
+15,Group H,Poland,Senegal,171,185,0.7,50,77,6,3,5,1128,825,1,0.5
+16,Group A,Russia,Egypt,177,63,0.7,79,62,7,6,5,493,636,0,0.5
+17,Group B,Portugal,Morocco,172,146,0.7,114,62,9,4,5,1306,681,1,1.0
+18,Group A,Uruguay,Saudi Arabia,228,183,0.7,68,59,7,5,5,976,462,1,1.0
+19,Group B,Iran,Spain,99,197,0.7,65,99,3,10,5,0,1162,1,0.0
+20,Group C,Denmark,Australia,57,12,0.7,74,67,7,5,5,1054,700,1,1.0
+21,Group C,France,Peru,73,169,0.7,83,86,10,4,5,1166,1106,1,0.5
+22,Group D,Argentina,Croatia,9,51,0.7,83,80,9,6,5,1254,975,1,0.5
+23,Group E,Brazil,Costa Rica,29,50,0.7,114,73,10,3,5,1384,858,1,1.0
+24,Group D,Nigeria,Iceland,155,96,0.7,38,80,5,4,5,635,930,1,0.5
+25,Group E,Serbia,Switzerland,186,209,0.7,62,51,5,7,5,732,1179,1,0.5
+26,Group G,Belgium,Tunisia,20,220,0.7,79,40,6,4,5,1346,1012,1,1.0
+27,Group F,Korea Republic,Mexico,113,139,0.7,55,145,6,7,5,520,1008,1,0.0
+28,Group F,Germany,Sweden,79,208,0.7,138,85,10,7,5,1544,889,1,1.0
+29,Group G,England,Panama,65,166,0.7,90,74,9,2,5,1040,574,1,1.0
+30,Group H,Japan,Senegal,106,185,0.7,68,77,6,3,5,528,825,1,0.5
+31,Group H,Poland,Colombia,171,45,0.7,50,91,6,7,5,1128,989,1,0.5
+32,Group A,Uruguay,Russia,228,177,0.7,68,63,7,7,5,976,493,1,1.0
+33,Group A,Saudi Arabia,Egypt,183,63,0.7,68,62,5,6,5,462,636,1,0.5
+34,Group B,Iran,Portugal,99,172,0.7,65,94,3,9,5,0,1306,1,0.0
+35,Group B,Spain,Morocco,197,146,0.7,97,62,10,4,5,1162,681,1,1.0
+36,Group C,Denmark,France,57,73,0.7,74,91,7,10,5,1054,1166,1,0.5
+37,Group C,Australia,Peru,12,169,0.7,75,86,5,4,5,700,1106,1,0.5
+38,Group D,Nigeria,Argentina,155,9,0.7,38,84,5,9,5,635,1254,1,0.0
+39,Group D,Iceland,Croatia,96,51,0.7,84,80,4,6,5,930,975,1,0.5
+40,Group F,Mexico,Sweden,139,208,0.7,147,85,7,7,5,1008,889,1,1.0
+41,Group F,Korea Republic,Germany,113,79,0.7,55,137,6,10,5,520,1544,1,0.0
+42,Group E,Serbia,Brazil,186,29,0.7,62,114,5,10,5,732,1384,1,0.0
+43,Group E,Switzerland,Costa Rica,209,50,0.7,52,73,7,3,5,1179,858,1,0.5
+44,Group H,Japan,Poland,106,171,0.7,68,69,6,6,5,528,1128,1,0.5
+45,Group H,Senegal,Colombia,185,45,0.7,73,91,3,7,5,825,989,1,0.5
+46,Group G,Panama,Tunisia,166,220,0.7,69,40,2,4,5,574,1012,1,0.5
+47,Group G,England,Belgium,65,20,0.7,90,87,9,6,5,1040,1346,1,0.5
